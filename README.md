@@ -42,18 +42,7 @@ Jarvis is an AI-powered voice assistant built in Python. It uses speech recognit
    ```
 2. Speak into your microphone when prompted, and Jarvis will respond accordingly.
 
-## **Project Structure**
-```plaintext
-├── src/
-│   ├── main.py          # Entry point of the application
-│   ├── speech_recognizer.py  # Handles speech recognition
-│   ├── command_processor.py  # Processes recognized commands
-│   ├── text_to_speech.py     # Handles text-to-speech conversion
-├── tests/              # Unit tests
-├── docs/               # Documentation
-├── requirements.txt    # Project dependencies
-└── README.md           # Project overview and setup instructions
-```
+
 
 ## **Contributing**
 Contributions are welcome! Please fork the repository and submit a pull request.
