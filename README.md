@@ -50,6 +50,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## **Acknowledgments**
 - Inspiration from various AI assistants and Python open-source projects.
 - Libraries used: `SpeechRecognition`, `gtts`, `playsound`, `PyAudio`.
+![Jarvis](https://github.com/purva94/JARVIS-A-voice-based-Personal-Assistant/blob/main/Jarvis.png)
 
 ---
 
