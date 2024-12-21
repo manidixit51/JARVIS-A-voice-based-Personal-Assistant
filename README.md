@@ -17,7 +17,7 @@ Jarvis is an AI-powered voice assistant built in Python. It uses speech recognit
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/manidixit51/JARVIS.git
+   git clone https://github.com/purva94/JARVIS.git
    ```
 2. Navigate to the project directory:
    ```bash
